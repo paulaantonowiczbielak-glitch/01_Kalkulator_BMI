@@ -16,4 +16,4 @@ Program:
 
 ## Autor
 
-Paula Antonowicz
+Paula Antonowicz Bielak
